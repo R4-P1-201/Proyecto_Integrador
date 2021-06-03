@@ -1,5 +1,4 @@
 # Proyecto_Integrador
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 En los últimos años, han proliferado los servicios de streamingde video bajo demanda por ejemplo Netflix, Disney, DC entre otros. Algunos de ellos se especializan por el volumen de videos que proporcionan a sus usuarios mientras que otros se han puesto el reto de mostrar solamente videos de su propia marca. En este proyecto se busca desarrollar la base para una pequeña empresa que un futuro proveerá estos servicios.
 
 1. Se quiere trabajar con dos tipos de videos: películasy series. Todo video tiene un ID, un nombre, una duracióny un género(drama, acción, misterio).
@@ -13,7 +12,6 @@ En los últimos años, han proliferado los servicios de streamingde video bajo d
     a.Esta clase tendrá el método para enlistartodos los videos registrados
     b.En caso de la película mostrará nombre, duración,género y calificación
     c.En caso de las series adicionalmente mostrará cuantas temporadas y episodios tienen. 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Entregables:
 En la liga de entregables se deberán adjuntar todo los entregables dentro de un archivo .zip. Los entregables son los siguientes: 
 1.Reporte en pdf que contenga:
