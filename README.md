@@ -1,5 +1,5 @@
 # Proyecto_Integrador
-En los últimos años, han proliferado los servicios de streamingde video bajo demanda por ejemplo Netflix, Disney, DC entre otros. Algunos de ellos se especializan por el volumen de videos que proporcionan a sus usuarios mientras que otros se han puesto el reto de mostrar solamente videos de su propia marca. En este proyecto se busca desarrollar la base para una pequeña empresa que un futuro proveerá estos servicios.
+En los últimos años, han proliferado los servicios de streaming de video bajo demanda por ejemplo Netflix, Disney, DC entre otros. Algunos de ellos se especializan por el volumen de videos que proporcionan a sus usuarios mientras que otros se han puesto el reto de mostrar solamente videos de su propia marca. En este proyecto se busca desarrollar la base para una pequeña empresa que un futuro proveerá estos servicios.
 
 1. Se quiere trabajar con dos tipos de videos: películasy series. Todo video tiene un ID, un nombre, una duracióny un género(drama, acción, misterio).
 2. Las seriestienen episodiosy cada episodio tiene un títuloy temporadaa la que pertenece.
