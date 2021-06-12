@@ -1,25 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-06-12T00:59:41.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="phlFPrI9mIrCPMTOBdNu" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-12T01:02:40.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="B6f1zIHZjDnZDO5wi1gq" version="14.7.7" type="github">
   <diagram id="BJVNOfgvTXDDsSaQgWP9" name="Page-1">
-    <mxGraphModel dx="1216" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="480" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uswLr2Vg8lWJkPyFAClN-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;Videoteca&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;+ cantidadVideos: int&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;+ coleccion : Videos&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ videoteca()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ videoteca(int)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ show()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
-          <mxGeometry x="280" y="80" width="240" height="160" as="geometry" />
+        <mxCell id="uswLr2Vg8lWJkPyFAClN-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;Videoteca&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;+ cantidadVideos: int&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;+ coleccion : Videos&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ videoteca()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ videoteca(int)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ show()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ set_video(int,video)&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="280" y="100" width="240" height="160" as="geometry" />
         </mxCell>
         <mxCell id="uswLr2Vg8lWJkPyFAClN-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;Videos&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ id: int&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ nombre: String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ duracion: double&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ genero: String&amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ videos()&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ videos(int,String,double,String)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="305" y="320" width="190" height="140" as="geometry" />
         </mxCell>
         <mxCell id="uswLr2Vg8lWJkPyFAClN-6" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="400" y="240" as="sourcePoint" />
-            <mxPoint x="400" y="320" as="targetPoint" />
+            <mxPoint x="399.5" y="260" as="sourcePoint" />
+            <mxPoint x="399.5" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uswLr2Vg8lWJkPyFAClN-7" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;fillColor=#fad9d5;strokeColor=#ae4132;entryX=0.311;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="uswLr2Vg8lWJkPyFAClN-5" edge="1">
+        <mxCell id="uswLr2Vg8lWJkPyFAClN-7" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" edge="1">
           <mxGeometry x="0.6105" width="160" relative="1" as="geometry">
             <mxPoint x="200" y="640" as="sourcePoint" />
-            <mxPoint x="364" y="500" as="targetPoint" />
+            <mxPoint x="364" y="460" as="targetPoint" />
             <Array as="points">
               <mxPoint x="364" y="640" />
             </Array>
